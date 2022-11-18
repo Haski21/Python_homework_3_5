@@ -23,3 +23,14 @@ while count < num:
     count += 1
     foo -= 1
     c = 1
+   
+# import string
+# ALPHA = string.ascii_lowercase
+# # ALPHA 
+# # 'abcdefghijklmnopqrstuvwxyz'
+# t ={i: ALPHA[i] for i in range(len(ALPHA))}
+# print(t)
+    
+    
+    
+    
